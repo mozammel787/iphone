@@ -38,7 +38,7 @@
 
 and many more, including code architecture and reusability 
 
-## Live Link
+### Live Link
 
  [iphone-pro.vercel.app](https://iphone-pro.vercel.app/)
 
@@ -75,10 +75,7 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-
+#
 Special thanks to the JavaScript Mastery for their guidance.
 
 
-
-
-#
